@@ -1,3 +1,6 @@
+import Box;
+
+package endsem;
 class Box{
     double width;
     double height;
